@@ -1,6 +1,6 @@
 #!/bin/bash 
 apt update
-apt install -y python3-dev default-libmysqlclient-dev build-essential
+apt install -y python3-dev default-libmysqlclient-dev build-essential git
 apt install -y python3-pip
 apt remove -y python2.7
 apt autoremove -y  
