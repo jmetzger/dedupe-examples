@@ -21,3 +21,11 @@ python mysql_example.py
 ```
 
   (use 'y', 'n' and 'u' keys to flag duplicates for active learning, 'f' when you are finished) 
+
+## Quick Setup for ubuntu 18.04. 
+
+```bash 
+cd mysql_example 
+# Installs software, creates db and fills data in db 
+./setup.sh 
+```
