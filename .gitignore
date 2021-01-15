@@ -19,7 +19,6 @@ examples/mysql_example/*.txt*
 kernprof.py
 possible_classifiers
 .DS_Store
-mysql.cnf
 *settings
 Dedupe.egg-info/
 ENV
