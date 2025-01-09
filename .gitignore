@@ -15,6 +15,7 @@ examples/output/*.*
 examples/csv_example/csv_example_output.csv
 *output.csv
 examples/mysql_example/*.txt*
+*contributions.txt
 *.db
 kernprof.py
 possible_classifiers
